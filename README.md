@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/68266911?s=400&u=265679fc36e6dc84af07c357a0048552b361f6ac&v=4" width="200" style="border-radius:50%;"/>
+  <br>
+  <b>
+  Hi my name is Yegor I`m Junior Go Backend dev with expereence in PHP (Laravel/Lumen)
+  </b>
+</div>
 
-<!--
-**CyberManul/CyberManul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### :rocket: My stack :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="80"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberManul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyberManul&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+### :book: My best projects :
